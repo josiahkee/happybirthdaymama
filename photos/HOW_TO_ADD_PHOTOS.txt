@@ -1,0 +1,10 @@
+Drop your photos for Mom right into this folder!
+
+Default filenames configured in content.js:
+  photo1.jpg (or photo1.png)
+  photo2.jpg (or photo2.png)
+  photo3.jpg (or photo3.png)
+  photo4.jpg (or photo4.png)
+
+Want more than 4 photos, or custom captions?
+Just open ../content.js and edit the `photos: [ ... ]` list near the top!
